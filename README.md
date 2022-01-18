@@ -1,2 +1,2 @@
 # CorMA
-Correlation Matrix Analysis
+**Cor**relation **M**atrix **A**nalysis
