@@ -27,7 +27,6 @@ class matcor:
     return abs(crcf)
 
   def corr_CC(self, X, Y):
-    print('corr_CC')
     X=X*u.deg
     Y=Y*u.deg
     crcf = float(circcorrcoef(X, Y))
